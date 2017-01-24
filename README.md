@@ -1,4 +1,6 @@
-# dates-mail-merge
+#Office handy tools
+
+## dates-mail-merge
 How to get the right date format from an Access to Word mail merge in MS office
 
 
