@@ -1,0 +1,7 @@
+# If for some reasons your keyboard shortcuts stop working in Word, open Word and try this:
+
+File > Options > Customize Ribbon > Customize Keyboard Shortcuts > All Commands 
+> EditCut (ctrl+x)
+> EditCopy (ctrl+c)
+> EditPaste (ctrl+v)
+> EditSelectAll (ctrl+a)
